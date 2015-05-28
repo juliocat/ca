@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\ca\|C:\ca1.1\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.5.3\ca\|\\192.168.4.3\ca\|\\192.168.0.206\ca\|\\192.168.2.7\ca\|\\192.168.2.7\ca1.2\</InstallUrlHistory>
+    <SupportUrlHistory>https://sites.google.com/a/icpnarc.edu.pe/e-teaching/|http://192.168.2.8:8080/wiki/index.php%3ftitle=E_-_Teaching|http://192.168.2.8:8080/eventum|http://192.168.2.8:8/eventum|http://192.168.2.8/eventum</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>\\192.168.2.7\ca\dotnet</BootstrapperUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory>https://sites.google.com/a/icpnarc.edu.pe/e-teaching/</ErrorReportUrlHistory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+</Project>

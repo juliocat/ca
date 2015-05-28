@@ -1,0 +1,260 @@
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe.config
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.csproj.ResolveComReference.cache
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.pdb
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Windows.Forms.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Core.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Win32.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.Properties.Resources.resources
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fAbout.resources
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fDiagnostics.resources
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fMain.resources
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.csproj.GenerateResource.Cache
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.exe
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.pdb
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fImgViewr.resources
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fGetHelp.resources
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe.manifest
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.application
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.exe.manifest
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.application
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\discon1
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\mnu1
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\mnu2
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\mnu3
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\shut1
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start1
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start2
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start3
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start4
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start5
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme1
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme2
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme3
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img1
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img2
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img3
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img4
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img5
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme5
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start6
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start7
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start8
+C:\Documents and Settings\ayacucho_404\Mis documentos\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme4
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\ca.exe.config
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.csproj.ResolveComReference.cache
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.exe
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.pdb
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\splash\img1
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\splash\img2
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\splash\img3
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\splash\img4
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\splash\img5
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\discon1
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\mnu1
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\mnu2
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\mnu3
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\shut1
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start1
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start2
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start3
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start4
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start5
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\theme1
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\theme2
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\theme3
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\theme5
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start6
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start7
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\start8
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\sound\theme4
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\ca.exe.manifest
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\ca.application
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\ca.exe
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\ca.pdb
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Fireball.Windows.Forms.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Fireball.Core.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Fireball.Win32.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\bin\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.Properties.Resources.resources
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.ui.fAbout.resources
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.ui.fDiagnostics.resources
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.ui.fGetHelp.resources
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.ui.fImgViewr.resources
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.ui.fMain.resources
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.csproj.GenerateResource.Cache
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.exe.manifest
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.application
+C:\Documents and Settings\mcruz\Desktop\ca\ca\obj\Release\ca.ui.fNotify.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe.config
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.csproj.ResolveComReference.cache
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.exe
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.pdb
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img1
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img2
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img3
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img4
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img5
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start1
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start2
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start3
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start4
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start5
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme1
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme2
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start6
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start7
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\alert\alert1
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe.manifest
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.application
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.pdb
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Windows.Forms.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Core.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Win32.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.Properties.Resources.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fAbout.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fDiagnostics.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fImgViewr.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fMain.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fNotify.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.csproj.GenerateResource.Cache
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.exe.manifest
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.application
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fReport.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fIntro.resources
+C:\Documents and Settings\mcruz\My Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fAnuncio.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe.config
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\Interop.WMPLib.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\AxInterop.WMPLib.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.csproj.ResolveComReference.cache
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.exe
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.pdb
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\alert\alert1
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img1
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img2
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img3
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img4
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\splash\img5
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start1
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start2
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start3
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start4
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start5
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme1
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\theme2
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start6
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\sound\start7
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe.manifest
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.application
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.exe
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\ca.pdb
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Windows.Forms.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Core.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Fireball.Win32.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\Interop.WMPLib.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\bin\Release\AxInterop.WMPLib.dll
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.Properties.Resources.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fAbout.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fAnuncio.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fDiagnostics.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fImgViewr.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fIntro.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fMain.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fNotify.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.ui.fReport.resources
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.csproj.GenerateResource.Cache
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.exe.manifest
+C:\Users\mcruz\Documents\Visual Studio 2008\Projects\ca\ca\obj\Release\ca.application
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\ca.exe
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\Interop.WMPLib.dll
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\AxInterop.WMPLib.dll
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\alert\alert1
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\splash\img1
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\splash\img2
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\splash\img3
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\splash\img4
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\splash\img5
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start1
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start2
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start3
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start4
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start5
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\theme1
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\theme2
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start6
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\sound\start7
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\ca.exe.config
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\ca.exe.manifest
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\ca.application
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\Interop.WMPLib.dll
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\AxInterop.WMPLib.dll
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.csproj.ResolveComReference.cache
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.Properties.Resources.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fAbout.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fAnuncio.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fDiagnostics.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fImgViewr.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fIntro.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fMain.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fNotify.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.ui.fReport.resources
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.csproj.GenerateResource.Cache
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.exe.manifest
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.application
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.exe
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.pdb
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\bin\Release\ca.pdb
+D:\Máster\Segundo Cuatrimestre\Tecnología Multimedia en Interacción\ETeaching\ca\ca\obj\Release\ca.csprojResolveAssemblyReference.cache
