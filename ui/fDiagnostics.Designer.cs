@@ -94,7 +94,7 @@
             this.txtFileAccessTest.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtFileAccessTest.Size = new System.Drawing.Size(706, 153);
             this.txtFileAccessTest.TabIndex = 7;
-            this.txtFileAccessTest.Text = "Start file access test";
+            this.txtFileAccessTest.Text = "Iniciar el test de acceso a los archivos";
             // 
             // btnStarFileAccess
             // 
