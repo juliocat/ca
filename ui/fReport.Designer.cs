@@ -113,7 +113,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "fReport";
-            this.Text = "Evnía tu opinión";
+            this.Text = "Envía tu opinión";
             this.ResumeLayout(false);
             this.PerformLayout();
 

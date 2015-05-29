@@ -508,7 +508,7 @@ namespace ca.ui
             this.PlayListVideos.Add(lv);
 
             this.cmbVideoList.Enabled = true; //Habilitar lista video
-            this.cmbVideoList.Text = "<Choose video>";
+            this.cmbVideoList.Text = "<Seleccione video>";
             this.cmbVideoList.Items.Add(dr[0].ToString() + " | " + dr[4].ToString());
         }
 
@@ -982,7 +982,7 @@ namespace ca.ui
             string[] tmp = this.cmbVideoList.Text.Split(separator);
             this.isOpenNextVideo = true;//Flag
             this.PlayVideo(tmp[0]);
-            this.cmbVideoList.Text = "<Choose again>";
+            this.cmbVideoList.Text = "<Selecione...>";
         }
 
         private void picImgs_DoubleClick(object sender, EventArgs e)
@@ -1324,7 +1324,7 @@ namespace ca.ui
 
         private void mnuQuickGuide_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"http://www.google.com");
+            System.Diagnostics.Process.Start(@"https://drive.google.com/file/d/0BxZWxwbWyuQSdTRKd0F0NHY4LW8/view?usp=sharing");
         }
 
         private void ShowAnnouncement()

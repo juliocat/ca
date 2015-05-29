@@ -30,8 +30,8 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fMain));
-            Fireball.Windows.Forms.DiscoverProfessionalRender discoverProfessionalRender1 = new Fireball.Windows.Forms.DiscoverProfessionalRender();
-            System.Windows.Forms.ToolStripProfessionalRenderer toolStripProfessionalRenderer1 = new System.Windows.Forms.ToolStripProfessionalRenderer();
+            Fireball.Windows.Forms.DiscoverProfessionalRender discoverProfessionalRender2 = new Fireball.Windows.Forms.DiscoverProfessionalRender();
+            System.Windows.Forms.ToolStripProfessionalRenderer toolStripProfessionalRenderer2 = new System.Windows.Forms.ToolStripProfessionalRenderer();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.filesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuExit = new System.Windows.Forms.ToolStripMenuItem();
@@ -656,7 +656,7 @@
             this.picImgs.Location = new System.Drawing.Point(0, 23);
             this.picImgs.Name = "picImgs";
             this.picImgs.Size = new System.Drawing.Size(232, 188);
-            this.picImgs.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picImgs.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.picImgs.TabIndex = 8;
             this.picImgs.TabStop = false;
             this.toolTip1.SetToolTip(this.picImgs, "Double click: Full Screen");
@@ -776,28 +776,28 @@
             this.discoverCtrl.Controls.Add(this.dis2);
             this.discoverCtrl.Controls.Add(this.dis1);
             this.discoverCtrl.Controls.Add(this.dis0);
-            discoverProfessionalRender1.DividerBackgroundColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(239)))), ((int)(((byte)(255)))));
-            discoverProfessionalRender1.DividerBackgroundColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(164)))), ((int)(((byte)(224)))));
-            discoverProfessionalRender1.DividerBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(140)))), ((int)(((byte)(203)))));
-            discoverProfessionalRender1.GripperColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
-            discoverProfessionalRender1.GripperColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(140)))), ((int)(((byte)(203)))));
-            discoverProfessionalRender1.HeaderBackgroundColor1 = System.Drawing.SystemColors.InactiveCaption;
-            discoverProfessionalRender1.HeaderBackgroundColor2 = System.Drawing.SystemColors.ActiveCaption;
-            discoverProfessionalRender1.HeaderTextColor = System.Drawing.Color.White;
-            discoverProfessionalRender1.PaneBackgroundColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(239)))), ((int)(((byte)(255)))));
-            discoverProfessionalRender1.PaneBackgroundColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(164)))), ((int)(((byte)(224)))));
-            discoverProfessionalRender1.PaneCheckedBackgroundColor1 = System.Drawing.Color.Empty;
-            discoverProfessionalRender1.PaneCheckedBackgroundColor2 = System.Drawing.Color.Empty;
-            discoverProfessionalRender1.PaneSelectedBackgroundColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(222)))));
-            discoverProfessionalRender1.PaneSelectedBackgroundColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(203)))), ((int)(((byte)(136)))));
-            this.discoverCtrl.CurrentRender = discoverProfessionalRender1;
+            discoverProfessionalRender2.DividerBackgroundColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(239)))), ((int)(((byte)(255)))));
+            discoverProfessionalRender2.DividerBackgroundColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(164)))), ((int)(((byte)(224)))));
+            discoverProfessionalRender2.DividerBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(140)))), ((int)(((byte)(203)))));
+            discoverProfessionalRender2.GripperColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
+            discoverProfessionalRender2.GripperColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(140)))), ((int)(((byte)(203)))));
+            discoverProfessionalRender2.HeaderBackgroundColor1 = System.Drawing.SystemColors.InactiveCaption;
+            discoverProfessionalRender2.HeaderBackgroundColor2 = System.Drawing.SystemColors.ActiveCaption;
+            discoverProfessionalRender2.HeaderTextColor = System.Drawing.Color.White;
+            discoverProfessionalRender2.PaneBackgroundColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(239)))), ((int)(((byte)(255)))));
+            discoverProfessionalRender2.PaneBackgroundColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(164)))), ((int)(((byte)(224)))));
+            discoverProfessionalRender2.PaneCheckedBackgroundColor1 = System.Drawing.Color.Empty;
+            discoverProfessionalRender2.PaneCheckedBackgroundColor2 = System.Drawing.Color.Empty;
+            discoverProfessionalRender2.PaneSelectedBackgroundColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(222)))));
+            discoverProfessionalRender2.PaneSelectedBackgroundColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(203)))), ((int)(((byte)(136)))));
+            this.discoverCtrl.CurrentRender = discoverProfessionalRender2;
             this.discoverCtrl.Dock = System.Windows.Forms.DockStyle.Fill;
             this.discoverCtrl.HeaderFont = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
             this.discoverCtrl.Location = new System.Drawing.Point(0, 0);
-            toolStripProfessionalRenderer1.RoundedEdges = true;
-            this.discoverCtrl.MenuItemsRenderer = toolStripProfessionalRenderer1;
+            toolStripProfessionalRenderer2.RoundedEdges = true;
+            this.discoverCtrl.MenuItemsRenderer = toolStripProfessionalRenderer2;
             this.discoverCtrl.Name = "discoverCtrl";
-            this.discoverCtrl.SelectedPane = this.dis3;
+            this.discoverCtrl.SelectedPane = this.dis0;
             this.discoverCtrl.ShowPanes = 4;
             this.discoverCtrl.Size = new System.Drawing.Size(226, 306);
             this.discoverCtrl.TabIndex = 0;
@@ -984,7 +984,7 @@
             this.dis0.Size = new System.Drawing.Size(224, 143);
             this.dis0.SmallImage = ((System.Drawing.Image)(resources.GetObject("dis0.SmallImage")));
             this.dis0.TabIndex = 3;
-            this.dis0.Text = " a. Tema";
+            this.dis0.Text = " a. Tema-Curso";
             // 
             // lsvCourse
             // 
@@ -1083,6 +1083,7 @@
             this.panel7.ResumeLayout(false);
             this.panel7.PerformLayout();
             this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picImgs)).EndInit();
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
