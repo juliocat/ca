@@ -41,7 +41,8 @@
             this.Name = "fIntro";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "e-Teaching";
+            this.Text = "Class Assistant";
+            this.Load += new System.EventHandler(this.fIntro_Load);
             this.ResumeLayout(false);
 
         }

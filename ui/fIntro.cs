@@ -11,5 +11,10 @@ namespace ca.ui
         {
             InitializeComponent();
         }
+
+        private void fIntro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
